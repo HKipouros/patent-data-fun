@@ -2,9 +2,10 @@
 You input a list of patent numbers and a list of keywords of interest, and the program scrapes data using the PatentsView API to see how many of your patents contain at least one keyword. Then, you can generate a word cloud visual showing which companies own the most keyword-containing patents.\
 \
 Sample output:\
-In the bioreactor field, who owns the most patents containing artificial intelligence-related keywords? (Grant year:2024)
+In the bioreactor field, who owns the most patents containing artificial intelligence-related keywords? What is the most common country of origin? (Grant year:2024)
 
 <img width="349" alt="Image" src="https://github.com/user-attachments/assets/aebc935b-f0fe-412c-9c49-45f642991203" />
+<img width="349" alt="Image" src="https://github.com/user-attachments/assets/18039f6e-ffde-46a0-83f8-e61717544835" />
 
 # Inspiration
 I wrote this program as a personal project to satisfy my curiosity about the rise of articifical intelligence-based patents in the field of bioreactors and cell culture. However, it is adaptable to find and visualize data on various fields of patents and various keywords. I wrote this as a Python beginner and learned a lot about using Python's ability to handle API requests and visualize results in order to have fun with data. 
